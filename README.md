@@ -1,5 +1,5 @@
 # Diabetes-Prediction
-## list of Classifier
+## List of Classifier
 - Logistic Regression
 - K-Nearest Neighbors (KNN)
 - Decision Tree
